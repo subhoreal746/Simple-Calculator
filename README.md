@@ -11,11 +11,11 @@ A simple command-line calculator that you can use to performs basic arithmetic o
 ## How to use
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/Python-Calculator.git
+   git clone https://github.com/yourusername/Simple-Calculator.git
    ```
 2. Run the script:
    ```
-   python calculator.py
+   Simple-Calculator.py
    ```
 
 ## Requirements
